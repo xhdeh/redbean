@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaa2222221
+=======
+sdkjf777777777777ljsl11111122222221
+>>>>>>> fz1
 88888888sldjf
 oooooooo
 iiiiiiiiiiiiiiii
